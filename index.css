@@ -1,0 +1,73 @@
+.profileBody {
+    display: flex;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+}
+
+.profileImg {
+    width: 30%;
+    margin: 10px;
+    text-align: center;
+}
+
+.profileInfo {
+    width: 70%;
+    margin: 10px;
+}
+
+.badge {
+    margin-bottom: 5px;
+}
+
+.viewProfileBtn {
+    background-color: #004085;
+    border: none;
+    border-radius: 5px;
+    width: 100%;
+    margin: 5px 0;
+}
+a {
+    color: white !important;
+}
+.primary {
+    background-color: #cce5ff;
+}
+.secondary {
+    background-color: #e2e3e5;
+}
+.success {
+    background-color: #d4edda;
+}
+.info {
+    background-color: #d1ecf1;
+}
+img {
+    width: 100%;
+}
+
+.alert {
+    background-color: #fdd7da;
+    border: 1px solid #721c24;
+    color: #721c24;
+}
+
+ul.list {
+    list-style-type: square;
+}
+
+li {
+    margin: 5px 0px;
+}
+.repoBody {
+    display: flex;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    margin: 5px 0px;
+}
+.repoName {
+    width: 30%;
+    margin: 10px;
+    text-align: center;
+}
+
+.badges {
+    margin: 10px;
+}
