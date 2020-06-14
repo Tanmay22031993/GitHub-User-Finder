@@ -19,15 +19,13 @@
 }
 
 .viewProfileBtn {
-    background-color: #004085;
+    background-color: #cce5ff;
     border: none;
     border-radius: 5px;
     width: 100%;
     margin: 5px 0;
 }
-a {
-    color: white !important;
-}
+
 .primary {
     background-color: #cce5ff;
 }
